@@ -86,7 +86,7 @@ streamlit run app.py
 * Ensure valid API keys for OpenRouter and SerpAPI.
 
 ---
-proof
+try this->
 
 https://jobassistent.streamlit.app/
 
